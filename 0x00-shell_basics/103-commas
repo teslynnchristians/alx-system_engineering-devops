@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -pan
+ls -pam
