@@ -1,0 +1,2 @@
+#!/bin/bash
+chmod a+v 700 hello
