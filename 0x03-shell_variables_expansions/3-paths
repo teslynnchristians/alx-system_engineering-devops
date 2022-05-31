@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "No. of directories is $(find "$PATH" -type d | wc -l)"
+echo $PATH | tr -s ':' '\n' | wc -l
